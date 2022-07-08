@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  *,
+  *:before,
+  *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+  }
+  
+  textarea {
+        resize: none;
+    }
+    
+ .bg-red{
+ 	background-color:#F00;
+ }
+ 
+ .red{
+ color:#F00;
+ }   
+  
+/*
+.content-title{
+  margin-left:5%;
+}
+
+.footer-margin{
+  margin-bottom:0;
+}
+
+
+.navbar .navbar-nav .active>.nav-link{
+    color:red!important;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item:hover .nav-link {
+    color: red;
+}
+
+.col-md-4{
+margin-right : 2%;
+}
+*/
